@@ -1,0 +1,25 @@
+# Maven / Java
+Backend/target/
+Backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local Spring configuration
+Backend/src/main/resources/application-local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
